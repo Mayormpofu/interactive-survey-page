@@ -3,6 +3,9 @@
 A simple HTML project that collects user input through a survey form.  
 Part of my portfolio to demonstrate form creation, input validation, and semantic HTML structure.
 
+## Live Demo
+[View Survey Form](https://mayormpofu.github.io/interactive-survey-page/)
+
 ## Features
 - Input fields for name, email, and age
 - Dropdown menu for study area selection
